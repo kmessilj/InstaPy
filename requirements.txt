@@ -18,5 +18,5 @@ urllib3>=1.24.1
 regex>=2018.11.22
 MeaningCloud-python>=1.1.1
 PyYAML>=3.13
-webdriverdownloader
+-e git+https://github.com/kmessilj/webdriverdownloader@3c1e6628e31ff912455a9fcb8e67176fa6ff2369#egg=webdriverdownloader
 python-telegram-bot>=12.0.0
